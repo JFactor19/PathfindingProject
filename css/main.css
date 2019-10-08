@@ -19,8 +19,17 @@ td{
     border: .05px solid black;
 }
 .explored{
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 .unexplored{
-    background-color: lightcoral;
+    background-color: #928779;
+}
+.start{
+    background-color: azure;
+}
+.end{
+    background-color: #FCDEBE;
+}
+.wall{
+    background-color: #3A445D;
 }
